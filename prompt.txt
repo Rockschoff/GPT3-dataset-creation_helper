@@ -1,0 +1,424 @@
+Smart 
+Software
+Why It 
+Works
+Customer 
+Results
+Case 
+Studies
+Myths 
+& Faq
+About 
+Quick Links
+Talk to Us 
+Email Us 
+Support Materials 
+Smart 
+Software
+Why It 
+Works
+Customer 
+Results
+Case 
+Studies
+Myths 
+& Faq
+About 
+Quick Links
+Talk to Us 
+Email Us 
+Support Materials 
+Quick 
+Links
+Support Materials
+Talk to Us 
+Why our 
+System Works
+SMART
+ PROJECT CONTROL IS ENABLED BY TWO KEY INNOVATIONS
+1
+The SMART Maps
+streamlines 
+project plans,
+ and transforms them into a 
+live instrument.
+ No more bulky, complicated plans.
+SMART 
+ MODEL
+SMART 
+ SCHEDULING
+2
+SMART SCHEDULING
+keeps teams working on the right tasks, and executives solving the right problems. To achieve uniterrupted execution. Even amidst always changing conditions.
+Scroll
+Why traditional systems don\xe2\x80\x99t work
+In traditional systems, thousands of tasks are interwoven into complex plans, which are difficult and error prone.
+Schedules are wrong; non-critical tasks often get priority over critical ones. Manual adjustments to course correct are onerous. Making the plans even more complex.
+Then, new tasks emerge in execution. The order of the work keeps changing. Which makes it impossible to keep complex plans current.
+To compensate, workarounds are created. Spreadsheets and back pocket plans. Dashboards and slides. None of which can be linked or easily reconciled.
+It\xe2\x80\x99s no surprise status and schedules are never reliable. And projects are always late.
+SMART PROJECT CONTROL
+The SMART Project Map is a leap forward
+It differentiates planning from execution
+PLANNING TIER
+This is a delivery roadmap with supertasks. It captures managerial decisions about resource allocation, risk reduction, staging of materials, etc. It\xe2\x80\x99s simple and rarely changes.
+EXECUTION TIER
+This captures detailed activities inside each supertask. It\xe2\x80\x99s flexible and can be updated on the fly by the frontline, or automatically from Engineering and ERP systems.
+\xe2\x80\x9cThe flow of information between the two tiers is automated.
+Plans stay relevant in execution.
+ Teams are synchronized and managers get early warning signals.\xe2\x80\x9d
+SMART Scheduling provides reliable answers to big, tough questions
+Will the project finish on time? If not, what should we focus on?
+Which upcoming bottlenecks should we worry about?
+Which routine delays are hurting us the most?
+Which tasks should get resources next?
+On multiple projects with shared resources, when can we safely start the next project?
+Get the answers you need and change forever the way you think about projects.
+SMART Project Control software is world-changing. It works in tandem with a powerful system of hard won practices. Offered at setup and available long-term.
+Start delivering your projects on time.
+ hbspt.cta._relativeUrls=true;hbspt.cta.load(6730591, \'8ca4a82b-ccec-4113-bfa1-c0ead63d7b80\', {"useNewLoader":"true","region":"na1"}); 
+Smart Software
+Why It Works
+Customer Results
+Case Studies
+Myths & FAQ
+About Us
+Email Us
+Support Materials
+Linkedin
+Twitter
+Youtube
+\n          Connect with Realization\n        
+ (function(w,d,s,c,r,a,m){ w[\'KiwiObject\']=r; w[r]=w[r] || function () { (w[r].q=w[r].q||[]).push(arguments)}; w[r].l=1*new Date(); a=d.createElement(s); m=d.getElementsByTagName(s)[0]; a.async=1; a.src=c; m.parentNode.insertBefore(a,m) })(window,document,\'script\',"https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js?v="+ new Date().getTime(),\'kiwi\'); window.onload = function () { kiwi.init(\'\', \'GjeBECsVyn3gDog1UoGCtylfu144dgKe\', {}); } 
+\n          See Smart in Action\n        
+\xc2\xa9 2020 Realization Technologies Inc. 
+440 North Wolfe Rd, Sunnyvale, CA 94085, USA
++1.408.271.5100
+info@realization.com
+hsjQuery = window['jQuery'];
+\n(function () {\n    window.addEventListener(\'load\', function () {\n        setTimeout(function () {\n            var xhr = new XMLHttpRequest();\n            xhr.open(\'POST\', \'/_hcms/perf\', true /*async*/);\n            xhr.setRequestHeader("Content-type", "application/json");\n            xhr.onreadystatechange = function () {\n                // do nothing.\n            };\n            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;\n            function populateNetworkInfo(name, connection, info) {\n                if (name in connection) {\n                    info[name] = connection[name];\n                }\n            }\n            var networkInfo = {};\n            if (connection) {\n                [\'type\', \'effectiveType\', \'downlink\', \'rtt\'].forEach(function(name) {\n                    populateNetworkInfo(name, connection, networkInfo);\n                });\n            }\n            var perfData = {\n                url: location.href,\n                portal: 6730591,\n                content: 26630625769,\n                group: -1,\n                connection: networkInfo,\n                timing: performance.timing\n            };\n            xhr.send(JSON.stringify(perfData));\n        }, 3000);  // Execute this 3 seconds after onload.\n    });\n})();\n
+\nif (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }\n
+\nvar _hsq = _hsq || [];\n_hsq.push(["setContentType", "standard-page"]);\n_hsq.push(["setCanonicalUrl", "https:\\/\\/www.realization.com\\/why-it-works"]);\n_hsq.push(["setPageId", "26630625769"]);\n_hsq.push(["setContentMetadata", {\n    "contentPageId": 26630625769,\n    "legacyPageId": "26630625769",\n    "contentFolderId": null,\n    "contentGroupId": null,\n    "abTestId": null,\n    "languageVariantId": 26630625769,\n    "languageCode": "en",\n    \n}]);\n
+\nvar hsVars = {\n    ticks: 1632137229579,\n    page_id: 26630625769,\n\n    content_group_id: 0,\n    portal_id: 6730591,\n    app_hs_base_url: "https://app.hubspot.com",\n    cp_hs_base_url: "https://cp.hubspot.com",\n    language: "en",\n    analytics_page_type: "standard-page",\n    analytics_page_id: "26630625769",\n    category_id: 1,\n    folder_id: 0,\n    is_hubspot_user: false\n}\n
+ 
+MCL 759 
+
+ 
+Minor 1 Exam
+ 
+ 
+Time: 60 minute
+s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 20
+ 
+ 
+1. What is customer persona. Why it is important? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+Explain a real persona for your offering 
+within
+ 
+the asked points.
+ 
+a. How he/she thinks (The problem scenario from his/her point of view)
+?
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+b. How does he/she feel about the problem
+?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+c. What he/she 
+currently does (the alternative he/she uses)
+?
+ 
+ 
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+d. List down the assumption
+s you need to test with your personas
+.
+ 
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+ 
+2
+. 
+a. 
+W
+hy do you think you are better
+ 
+and 
+believable
+?
+ 
+ 
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+ 
+b. W
+hy 
+your customers
+ 
+should care about your offering
+/s
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+[
+1
+]
+ 
+ 
+3. Plot your customer journey through AIDA (Attention
+-
+Interest
+-
+Desire
+-
+Action) chart.
+ 
+ 
+[
+5
+]
+ 
+ 
+4. What is the process of fo
+rmalising 
+an
+ 
+MVP. Dr
+aw your MVP paper prototyp
+e
+ 
+(
+only d
+rawing
+ 
+is 
+allowed
+)
+. 
+How will you validate your MVP
+?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[
+5
+]
+ 
+5. 
+ 
+List down the 
+partners and 
+key
+ 
+resources,
+ 
+you
+ 
+would
+ 
+require for your startup business idea and map it 
+with the key activities.
+ 
+(
+Only Table for
+ma
+t
+ 
+is allowed
+)
+ 
+ 
+ 
+ 
+ 
+ 
+[
+2
+]
+ 
+ 
+ 
+ 
+ 
+ 
+Class Activity
+MCL 759
+How do you decide which idea is valuable
+How do you decide which idea is valuable
+Collecting Meaningful Feedback is really difficult
+“Tell me and I'll forget; 
+show me and I may remember; Involve me and I'll understand.”
+Chinese Proverb
+Problem Statement
+Inspiration
+Idea Expression
+Customer Definition
+Customer Segmentation
+Customer Personas
+User Narrative
+Paper Prototyping 
+
+
+Customer Personas
+Who are the customers? What do they think? See? Feel? Do?
+
+Good products and valuable innovation happen when you understand your customer and what matters to them.
+
+Personas are the best way of developing better hypothesis.
+
+Check out www.alexandercowan.com for customer personas
+Source: Alex Cowen: Starting a Tech Business
+
+
+
+
+
+
+
+Exercise: Persona Creation
+Can you think of 5 real examples of your personas
+
+List 3 examples
+Example: Rohit’s Idea
+
+	Wouldn’t be it cool
+If Students could improve their studying habits with a Mobile App?
+Problem Statement
+
+Too many student don’t get good grades in their graduation not because they lack intelligence but because they never gained the academic habits they needed.
+Your Turn
+Write down your problem statement and Idea expression.
+Inspiration
+
+The other system that attempt to solve the same problem or inspire you to design it.
+Your Turn
+Write down your inspiration
+
+Name
+What you like ?
+What do you not like?
+What can you borrow?
+
+Customer Definition
+
+Who is actually going to use it?
+Who are the early adaptors?
+
+Rohit’s Customer Definition
+
+College Student who owns smartphones
+Your Turn
+Come up at least with two customer groups
+Your Turn
+
+Customer Personas
+More in-depth look to your demographic/customer segment
+
+
+
+Rohit’s customer persona
+Name: Prithvi
+Age: 19
+Demographic: 1st year student
+Background
+Attends a prestigious college
+Owns a smartphone and loves to use it
+Regularly attend classes and make notes
+Has parents who are invested in him doing well
+
+Goals:  Wants to keep track of his assignments/test on his phone
+	      Wants to do good in the class and get good grades
+
+Frustration:  Even though he studies, he does not feels that he gets the grades, he deserves
+		Does not know how to get better grades?
+
+
+
+
+
+Your Turn
+Create the persona for your idea 
+User Narrative
+User narrative is a story about one of the personas using and interacting the idea in the real world.
+You can think of it as a movie script.
+
+E.g. 
+Prithvi is in a entrepreneurship class and hears about a quiz in a week. He opens up the app, add the test and can see all the study steps he will need to complete to do well in the test.
+He adds those steps on his plan. Followed them….
+He did well in test….
+
+
+Your Turn
+Write down your user narrative for your persona.
+
+Power of user narrative: Help you to explain your product/service with a story.
+
+Don’t include every single feature, just a simple story anyone can understand.
+
