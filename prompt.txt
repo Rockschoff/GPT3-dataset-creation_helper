@@ -32,6 +32,122 @@ Quick
 Links
 Support Materials
 Talk to Us 
+THERE\xe2\x80\x99S A BRAND NEW WAY TO EXECUTE PROJECTS
+IT\xe2\x80\x99S LIKE GOOGLE MAPS FOR PROJECTS
+Our patented SMART algorithms turn project plans into live instruments making powerful use of real-time data. And it\xe2\x80\x99s changed everything.
+THERE\xe2\x80\x99S A BRAND NEW WAY TO EXECUTE PROJECTS
+IT\xe2\x80\x99S LIKE GOOGLE MAPS FOR PROJECTS
+Our patented SMART algorithms turn project plans into live instruments making powerful use of real-time data. And it\xe2\x80\x99s changed everything.
+THERE\xe2\x80\x99S A BRAND NEW WAY TO EXECUTE PROJECTS
+IT\xe2\x80\x99S LIKE GOOGLE MAPS FOR PROJECTS
+Our patented SMART algorithms turn project plans into live instruments making powerful use of real-time data. And it\xe2\x80\x99s changed everything.
+THERE\xe2\x80\x99S A BRAND NEW WAY TO EXECUTE PROJECTS
+IT\xe2\x80\x99S LIKE GOOGLE MAPS FOR PROJECTS
+Our patented SMART algorithms turn project plans into live instruments making powerful use of real-time data. And it\xe2\x80\x99s changed everything.
+ENGINEERING
+CONSTRUCTION
+MAINTENANCE & REPAIR
+MANUFACTURING
+CLOSE
+CLOSE
+\xc2\xa0
+\xc2\xa0
+\xc2\xa0
+\xc2\xa0
+\xc2\xa0
+ENABLING EXCELLENCE IN PROJECT DELIVERY
+SMART 
+Project Control
+A system built to deliver complex projects faster. Works within and across enterprises.
+It works even better on multiple projects with shared resources. The greater the complexity, the more valuable and indispensable it becomes.
+FINISH PROJECTS 
+ 20%-40% FASTER
+20 \xe2\x80\x93 40%
+Our customers get to the finish line 20-40% faster. More projects per year, less chaos, greater savings.
+BOTTOM LINE 
+ IMPACT
+$6.5B
+Over 400 companies around the world have generated more than $6.5B in additional cash and profits.
+\n\n  .bottom-copy p{ color:#fff;}\n  .spd-image-slider-section{ border:1px solid #EEEEEE;}\n\n
+The Power of 
+SMART Algorithms
+Everyone has real-time data. Yet, projects are still late.
+But SMART algorithms can now leverage that data. That\xe2\x80\x99s how SMART Project Control (and Google Maps) get you there faster. With real-time data linked to forward-looking routing algorithms.
+Dig in
+Learn more about one plan for everyone, intelligent collaboration, early warning signals, and how we help you optimize for multiple projects.
+ hbspt.cta._relativeUrls=true;hbspt.cta.load(6730591, \'009f0055-0cd0-4515-b512-8fea08f7ac13\', {"useNewLoader":"true","region":"na1"}); 
+MRO / STO
+Mission: Keep the F/A-18 Hornet Flying
+\n                    Age combined with excessive flight hours had put much of a legendary Naval aircraft fleet on the ground. The...\n                  
+\n                27 February, 2020\n              
+\xe2\x80\x9cWe\xe2\x80\x99ve been underway 
+in that process now for a 
+year, and we have already increased the depot throughput by 40%.\xe2\x80\x9d
+\n             Rear Admiral Michael Manazir 
+ US NAVY \n            
+Infrastructure & Construction
+Innovations and Improvements at Almaraz Nuclear Power
+\n                    Bringing large-scale improvements to nuclear power plant operations is complex, difficult and costly. SMART...\n                  
+\n                27 February, 2020\n              
+Smart Software
+Why It Works
+Customer Results
+Case Studies
+Myths & FAQ
+About Us
+Email Us
+Support Materials
+Linkedin
+Twitter
+Youtube
+\n          Connect with Realization\n        
+ (function(w,d,s,c,r,a,m){ w[\'KiwiObject\']=r; w[r]=w[r] || function () { (w[r].q=w[r].q||[]).push(arguments)}; w[r].l=1*new Date(); a=d.createElement(s); m=d.getElementsByTagName(s)[0]; a.async=1; a.src=c; m.parentNode.insertBefore(a,m) })(window,document,\'script\',"https://app.interakt.ai/kiwi-sdk/kiwi-sdk-17-prod-min.js?v="+ new Date().getTime(),\'kiwi\'); window.onload = function () { kiwi.init(\'\', \'GjeBECsVyn3gDog1UoGCtylfu144dgKe\', {}); } 
+\n          See Smart in Action\n        
+\xc2\xa9 2020 Realization Technologies Inc. 
+440 North Wolfe Rd, Sunnyvale, CA 94085, USA
++1.408.271.5100
+info@realization.com
+hsjQuery = window['jQuery'];
+\n(function () {\n    window.addEventListener(\'load\', function () {\n        setTimeout(function () {\n            var xhr = new XMLHttpRequest();\n            xhr.open(\'POST\', \'/_hcms/perf\', true /*async*/);\n            xhr.setRequestHeader("Content-type", "application/json");\n            xhr.onreadystatechange = function () {\n                // do nothing.\n            };\n            var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;\n            function populateNetworkInfo(name, connection, info) {\n                if (name in connection) {\n                    info[name] = connection[name];\n                }\n            }\n            var networkInfo = {};\n            if (connection) {\n                [\'type\', \'effectiveType\', \'downlink\', \'rtt\'].forEach(function(name) {\n                    populateNetworkInfo(name, connection, networkInfo);\n                });\n            }\n            var perfData = {\n                url: location.href,\n                portal: 6730591,\n                content: 34379278250,\n                group: -1,\n                connection: networkInfo,\n                timing: performance.timing\n            };\n            xhr.send(JSON.stringify(perfData));\n        }, 3000);  // Execute this 3 seconds after onload.\n    });\n})();\n
+\n(function() {\n  document.cookie = 'hs_ab_test=54233578103:34379278250';\n})();\n
+\nif (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }\n
+\n(function(){\n    window.hsEmbeddedVideo = window.hsEmbeddedVideo || {};\n    window.hsEmbeddedVideo.initialized = false;\n    window.hsEmbeddedVideo.isTrackingEnabled = true;\n    window._hsq = window._hsq || [];\n\n    function setPlayersUtk(utkstr, container) {\n      if (!container) {\n        container = document;\n      }\n      var playerCollection = container.getElementsByClassName(\'vidyard-player-embed\');\n      if (playerCollection) {\n\n        for (var i=0; i < playerCollection.length; i++) {\n          playerCollection[i].setAttribute("data-vydata", encodeURIComponent(JSON.stringify({\n              utk: utkstr,\n              portal_id: 6730591,\n              hs_original_external_id: playerCollection[i].getAttribute("hs-original_external_id"),\n              hs_original_external_uuid: playerCollection[i].getAttribute("hs-original_external_uuid"),\n              content_type: "standard-page",\n              canonical_url: "https:\\/\\/www.realization.com",\n              page_id: 34379278250,\n              content_page_id: 34379278250,\n              legacy_page_id: "34379278250",\n              content_folder_id: null,\n              content_group_id: null,\n              ab_test_id: 54233578103,\n              language_code: null\n          })));\n        }\n      }\n    };\n\n    function renderPlayers() {\n      if (window.vidyardEmbed && window.vidyardEmbed.api) {\n          window.vidyardEmbed.api.renderDOMPlayers();\n      }\n    };\n\n    function codeNotLoadEventHandler(event) {\n      if (window.hsEmbeddedVideo.initialized !== true) {\n        window.hsEmbeddedVideo.initialized = true;\n\n        if (window.vidyardEmbed) {\n          renderPlayers();\n        }\n\n        window.removeEventListener("content-analytics-code-not-loaded", codeNotLoadEventHandler);\n        console.log(event);\n      }\n    };\n\n    function receiveConversionMessage(event) {\n      if (event.origin !== \'https://play.vidyard.com\' || !event.data.hubspot) {\n        return;\n      }\n\n      if (event.data.isVideoAnalytics) {\n        window._hsq.push(event.data.payload);\n      }\n\n      if (event.data.redirect) {\n        window.location.href = event.data.redirect;\n      }\n    }\n\n    window._hsq.push([\'addPrivacyConsentListener\', function(consent) {\n      if (window.vidyardEmbed && window.vidyardEmbed.api) {\n        window.vidyardEmbed.api.GDPR.consent(consent.categories.analytics);\n      }\n    }]);\n\n    window._hsq.push([\'addUserTokenListener\', function(utk) {\n      if (window.hsEmbeddedVideo.initialized !== true) {\n        window.hsEmbeddedVideo.initialized = true;\n\n        if (window.vidyardEmbed) {\n          //if video hubl is rendered for template, do not set utk\n          if (window.hsEmbeddedVideo.isTrackingEnabled) {\n            setPlayersUtk(utk);\n          }\n          renderPlayers();\n        }\n\n        window.removeEventListener("content-analytics-code-not-loaded", codeNotLoadEventHandler);\n      }\n    }]);\n\n    window.addEventListener("content-analytics-code-not-loaded", codeNotLoadEventHandler);\n    window.addEventListener("message", receiveConversionMessage, false);\n\n    setTimeout(function() {\n      const timeoutEvent = document.createEvent(\'CustomEvent\');\n      timeoutEvent.initCustomEvent("content-analytics-code-not-loaded", true, true, { detail: "Timeout" });\n      window.dispatchEvent(timeoutEvent);\n    }, 5000);\n\n    window.hsEmbeddedVideo.api = {\n      setPlayersUtk: setPlayersUtk,\n    };\n\n})();\n
+\nvar _hsq = _hsq || [];\n_hsq.push(["setContentType", "standard-page"]);\n_hsq.push(["setCanonicalUrl", "https:\\/\\/www.realization.com"]);\n_hsq.push(["setPageId", "34379278250"]);\n_hsq.push(["setContentMetadata", {\n    "contentPageId": 34379278250,\n    "legacyPageId": "34379278250",\n    "contentFolderId": null,\n    "contentGroupId": null,\n    "abTestId": 54233578103,\n    "languageVariantId": 34379278250,\n    "languageCode": "en",\n    \n}]);\n
+\nvar hsVars = {\n    ticks: 1632270704591,\n    page_id: 34379278250,\n\n    content_group_id: 0,\n    portal_id: 6730591,\n    app_hs_base_url: "https://app.hubspot.com",\n    cp_hs_base_url: "https://cp.hubspot.com",\n    language: "en",\n    analytics_page_type: "standard-page",\n    analytics_page_id: "34379278250",\n    category_id: 1,\n    folder_id: 0,\n    is_hubspot_user: false\n}\n
+Smart 
+Software
+Why It 
+Works
+Customer 
+Results
+Case 
+Studies
+Myths 
+& Faq
+About 
+Quick Links
+Talk to Us 
+Email Us 
+Support Materials 
+Smart 
+Software
+Why It 
+Works
+Customer 
+Results
+Case 
+Studies
+Myths 
+& Faq
+About 
+Quick Links
+Talk to Us 
+Email Us 
+Support Materials 
+Quick 
+Links
+Support Materials
+Talk to Us 
 Why our 
 System Works
 SMART
